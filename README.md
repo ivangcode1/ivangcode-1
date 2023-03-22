@@ -1,9 +1,11 @@
 <!-- ![](https://komarev.com/ghpvc/?username=ivangcode&color=blueviolet) -->
 [![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fivangcode&count_bg=%234A4B49&title_bg=%235E21A4&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://github.com/)
 <!-- BANNER: "Hello it's Ivan" -->
-# ![banner](https://user-images.githubusercontent.com/73669701/181575700-28664e46-ced0-4258-970b-e4f5322dd100.png)
+  ![bannerv2](https://user-images.githubusercontent.com/114609006/227030634-a9a35b97-37ec-4aca-8779-12628ac1c25c.png)
+
+<!-- # ![banner](https://user-images.githubusercontent.com/73669701/181575700-28664e46-ced0-4258-970b-e4f5322dd100.png) -->
 <!-- DESCRIPTION -->
-Javascript | Frontend Developer, I have created several projects using JavaScript, and also implemented technologies such as Next.js, React, Node.js, Express, and Nest. I am also proficient using SQL, and Linux. My goal is grow as a professional, reach a high seniority level and take a role in software architecture to create great applications. Team player, communication, problem-solving, and detail-oriented are skills that allows me to do an excellent job.
+Full-Stack developer with 3 years of experience programming with web technologies. With experience working in a technology company and open source projects, creating bugfixes and implement great features using clean code and unit tests. Excellent working with others and contributing to implement the best solutions for complex problems.
 
 🚀 I am part of the best community ever: 💚**Platzi Master**.
 
